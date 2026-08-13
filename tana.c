@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <float.h>
+#include <math.h>
 
 #define NB_SOMMETS 30
 #define INFINI DBL_MAX
